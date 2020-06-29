@@ -4,7 +4,11 @@ Ein Cartoon mit einer Steinzeit-Familie. Dazu gehören Mama Betty, Papa Fred, de
 
 ## Vorstellung
 
-* Fred: Lieblingsspruch bei Arbeitsende ist "Jappadappaduuu"
+* Fred: Lieblingsspruch bei Arbeitsende ist “Jappadappaduuu”
 * Betty tratscht gern mit ihrer Nachbarin
 * Pebbles spielt of mit dem Nachbarsjungen Bambam
 * der Haussaurier sperrt Fred gelegentlich aus
+
+## Zitat
+
+Wer es oben überlesen hat: ein Zitat Freds (Lieblingsspruch bei Arbeitsende) ist "Jappadappaduuu"
