@@ -11,4 +11,6 @@ Ein Cartoon mit einer Steinzeit-Familie. Dazu gehören Mama Betty, Papa Fred, de
 
 ## Zitat
 
-Wer es oben überlesen hat: ein Zitat Freds (Lieblingsspruch bei Arbeitsende) ist "Jappadappaduuu"
+Wer es oben überlesen hat: ein Zitat Freds (Lieblingsspruch bei Arbeitsende) ist
+
+> Jappadappaduuu
